@@ -8,7 +8,7 @@ For support, please contact: Assif.Yitzhaky@weizmann.ac.il
 __________________________________________________________
 Code: the SPC C code is suitable for Windows, Linux and Mac.
 
-Makefile can be used to compile on Linux)
+Makefile can be used to compile on Linux.
 
 Note: You should run the MF version like the Monte-Carlo version here: https://github.com/eytandomany/SPC
 You can find documentation in the following files: README.PDF and document.pdf.
